@@ -45,7 +45,7 @@ The following are the driving factors for defaulter consideration:
 ## Contact
 Created by 
 bairav.harish.kothathi.vishwanath@sap.com
-[@prajwelbk] 
+prajwel.b.k@sap.com
 
 feel free to contact us!
 
